@@ -1,4 +1,5 @@
-﻿using System.Numerics;
+// Изменения от напарника
+using System.Numerics;
 
 BigInteger fact(BigInteger i)
 {
