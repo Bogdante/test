@@ -12,3 +12,5 @@ BigInteger fact(BigInteger i)
 
 Console.WriteLine(fact(5));
 Console.WriteLine(fact(6));
+
+Console.WriteLine("b3");
