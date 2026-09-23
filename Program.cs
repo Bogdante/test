@@ -14,4 +14,4 @@ BigInteger fact(BigInteger i)
 Console.WriteLine(fact(5));
 
 // Локальное изменение
-// Ещё одно локальное изменение
+// Локальное изменение 2
