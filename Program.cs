@@ -1,4 +1,3 @@
-// Изменения от напарника
 using System.Numerics;
 
 BigInteger fact(BigInteger i)
@@ -12,7 +11,3 @@ BigInteger fact(BigInteger i)
 }
 
 Console.WriteLine(fact(5));
-
-// Локальное изменение
-// Ещё одно локальное изменение
-// Изменения от напарника
